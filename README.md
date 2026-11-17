@@ -39,7 +39,7 @@ Performed SQL-based analysis using 7 queries to explore the dataset and extract 
 - `eda.py` – Performs exploratory data analysis.
 - `ApexPlanet_Task2_Analysis.sql` – Contains SQL analysis queries.
 - `cleaned_dataset.csv` – Cleaned dataset.
-- `statistical_summary.csv` – Statistical summary.
+- `descriptive_statistics.csv` – Statistical summary.
 
 ## Learning Outcomes
 - Improved Python and SQL skills.
